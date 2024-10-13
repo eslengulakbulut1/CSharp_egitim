@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ders_05
 {
-    internal class Program
+    internal class Program 
     {
         static void Main(string[] args)
         {
@@ -199,6 +199,7 @@ namespace ders_05
             }
 
             #endregion
+
 
             Console.Read();
         }

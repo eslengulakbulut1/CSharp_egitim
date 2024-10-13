@@ -167,6 +167,8 @@ namespace ders_06
             }
 
 
+
+
             #endregion
 
             Console.Read();
